@@ -1,7 +1,7 @@
 from twython import Twython
 import time
 
-API_KEY = 'zX9kWz5W33iF0JGWHDCCKEhko'
+API_KEY = 'XXXXX'
 API_SECRET = 'XXXXX'
 ACCESS_TOKEN = 'XXXXX'
 ACCESS_TOKEN_SECRET = 'XXXXX'
